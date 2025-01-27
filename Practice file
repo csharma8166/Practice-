@@ -1,0 +1,7 @@
+SQL, short for Structured Query Language, is a programming language that's used for managing and manipulating databases. Here’s a bit about SQL:
+
+Creation: SQL is used to create databases and database objects like tables, indexes, and views.
+
+Retrieval: It allows you to retrieve data from a database using queries.
+
+Manipulation: You can insert, update, or delete data within your database using SQL commands.
